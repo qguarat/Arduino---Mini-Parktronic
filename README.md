@@ -1,2 +1,1 @@
-# Arduino---Mini-Parktronic
-My first project with arduino ever.
+http://imgur.com/gallery/6ZcCV
