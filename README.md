@@ -1,1 +1,1 @@
-http://imgur.com/gallery/6ZcCV
+![alt tag] (http://imgur.com/GaPfK6i)
