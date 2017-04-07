@@ -1,2 +1,2 @@
-[url=http://imgur.com/s6DUdcF][img]http://i.imgur.com/s6DUdcF.jpg[/img][/url]
+<a href="http://imgur.com/s6DUdcF"><img src="http://i.imgur.com/s6DUdcF.jpg" witdh = "100" title="source: imgur.com" /></a>
 ![alt tag] (http://imgur.com/GaPfK6i)
